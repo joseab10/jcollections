@@ -1,4 +1,4 @@
-from invdict import InvDict
+from .invdict import InvDict
 
 __all__ = [
     "InvDict"
